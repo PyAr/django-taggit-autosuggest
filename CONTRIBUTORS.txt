@@ -1,0 +1,11 @@
+About contributors:
+===================
+This is a fork from:
+https://bitbucket.org/soulne4ny/django-taggit-autosuggest
+
+PyAr is using this django app for the PyAr site, so we are
+mantaining this version to work with >= python3.3
+
+Contributors list:
+==================
+PyAr community: http://pyar.org.ar
